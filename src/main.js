@@ -8,9 +8,9 @@ $(document).ready(function () {
         }
     );
     $(".card-player-1").on("click", function() {
-        console.log("HELLO");
+        window.location.href = "pkathint.html";
     });
     $(".card-player-2").on("click", function() {
-        console.log("HELLO");
+        window.location.href = "lklincar.html";
     });
 });
